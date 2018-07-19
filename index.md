@@ -43,8 +43,8 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
 
 6. Authors are required by IEEE to transfer copyrights for any papers placed in Xplore. This is performed at the time final versions are submitted for production. If a paper is withdrawn from the proceedings, copyright will revert to the authors.
  LaTeX and Microsoft Word templates can be found at:
-   * [Word Template](https://www.isi.edu/sites/default/files/top_level/events/btas2018/BTAS2018-CameraReady-WordTemplate.zip)
-   * [Latex Template](https://www.isi.edu/sites/default/files/top_level/events/btas2018/BTAS2018-CameraReady-LatexTemplate.zip)
+   * [Word Template](https://filesender.uninett.no/?s=download&token=74232a7c-255d-40c7-8b83-52fd598271bd)
+   * [Latex Template](https://filesender.uninett.no/?s=download&token=555df014-1972-47df-9fd5-25a630d119a8)
 
 7. The review process is double-blind. Please remove author names, affiliations, email addresses, etc. from the paper. Please remove personal acknowledgments.
  
