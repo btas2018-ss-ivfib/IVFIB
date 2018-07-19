@@ -29,7 +29,7 @@ Papers are invited to report on following topics, but not limited to:
  
 Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system [CMT Submission Site](https://cmt3.research.microsoft.com/BTASSS2018/) and will be double-blind peer reviewed by at least three reviewers.
 
- ## Paper Submission Guidelines
+## Paper Submission Guidelines
  
 1. The submitted paper should not be under review in other conferences, workshops, journals. Submitted papers may be checked with a plagiarism detection tool. Simultaneous submission to arxiv is allowed.
  
