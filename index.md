@@ -51,9 +51,9 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
 8. When reporting experiments on data collected in your lab, consider stating this as “This experiment was conducted using data acquired in our labs”. Do not state this as “This experiment was conducted using data that was collected in our labs at Mars University”
  When citing your own work, ensure that the narrative does not divulge your identity.
  
-9. Please submit your paper to the Microsoft Conference Management Toolkit at: https://cmt3.research.microsoft.com/BTASSS2018/
+9. Please submit your paper to the Microsoft Conference Management Toolkit at: [https://cmt3.research.microsoft.com/BTASSS2018/](https://cmt3.research.microsoft.com/BTASSS2018/)
 
-Detailed instructions can be found at: https://www.isi.edu/events/btas2018/paper_submission_guidelines
+Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/paper_submission_guidelines](https://www.isi.edu/events/btas2018/paper_submission_guidelines)
 
 
 # Important Dates
