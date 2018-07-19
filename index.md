@@ -46,7 +46,7 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
    * [Word Template](https://www.isi.edu/sites/default/files/top_level/events/btas2018/BTAS2018-CameraReady-WordTemplate.zip)
    * [Latex Template](https://www.isi.edu/sites/default/files/top_level/events/btas2018/BTAS2018-CameraReady-LatexTemplate.zip)
 
-7. The review process is double-blind. Please remove author names, affiliations, email addresses, etc. from the paper. Remove personal acknowledgments
+7. The review process is double-blind. Please remove author names, affiliations, email addresses, etc. from the paper. Please remove personal acknowledgments.
  
 8. When reporting experiments on data collected in your lab, consider stating this as “This experiment was conducted using data acquired in our labs”. Do not state this as “This experiment was conducted using data that was collected in our labs at Mars University”
  When citing your own work, ensure that the narrative does not divulge your identity.
