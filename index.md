@@ -27,7 +27,7 @@ Papers are invited to report on following topics, but not limited to:
 
 # Submission Guidelines
  
-Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system[CMT Submission Site](https://cmt3.research.microsoft.com/BTASSS2018/) and will be double-blind peer reviewed by at least three reviewers.
+Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system [CMT Submission Site](https://cmt3.research.microsoft.com/BTASSS2018/) and will be double-blind peer reviewed by at least three reviewers.
 
  ## Paper Submission Guidelines
  
@@ -75,7 +75,7 @@ Keynote Speaker: To be confirmed
 * Assoc. Prof. Kiran Raja (Univeristy of South-Eastern Norway) - [e-mail](kiran.raja@usn.no)
 * Assit. Prof. Chris Zeinstra (UTW, Netherlands) - [e-mail](c.g.zeinstra@utwente.nl)
 
-  ## Further Information
-  [CMT Submission Site](https://cmt3.research.microsoft.com/BTASSS2018/)
+# Further Information
+[CMT Submission Site](https://cmt3.research.microsoft.com/BTASSS2018/)
 
-  [BTAS2018 Official Site](https://www.isi.edu/events/btas2018/home)
+[BTAS2018 Official Site](https://www.isi.edu/events/btas2018/home)
