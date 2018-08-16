@@ -59,9 +59,9 @@ Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/pape
 # Important Dates
 
 1. Workshop: 22nd October, 2018 (Half- day workshop)
-2. Full Paper Submission: Aug 15th, 2018
-3. Acceptance Notification: Aug 30th, 2018
-4. Camera-Ready Paper Due: Sep 15th 2018
+2. Full Paper Submission: Aug 22nd, 2018
+3. Acceptance Notification: Sep 05th, 2018
+4. Camera-Ready Paper Due: Sep 20th 2018
 
 
 # Speaker
