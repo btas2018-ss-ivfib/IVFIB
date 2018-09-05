@@ -66,7 +66,10 @@ Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/pape
 
 # Speaker
 ```
-Keynote Speaker: To be confirmed.
+Keynote Speaker - 
+1. Prof. Kong Wai-Kin Adams, NTU Singapore
+2. To be confirmed
+
 ```
 
 # Oragnizing Committee
