@@ -58,24 +58,24 @@ Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/pape
 
 # Important Dates
 
-1. Workshop: 22nd October, 2018 (Half- day workshop)
-2. Full Paper Submission: Aug 22nd, 2018
-3. Acceptance Notification: Sep 10th, 2018 (Postponed)
-4. Camera-Ready Paper Due: Sep 20th 2018
+1. Workshop: 22nd October, 2018 (Half-day workshop)
+2. Full Paper Submission: Aug 22nd, 2018 (Completed)
+3. Acceptance Notification: Sep 10th, 2018 (Completed)
+4. Camera-Ready Paper Due: Sep 20th 2018 (Completed)
 
 
 # Speaker
 ```
 Keynote Speaker - 
 1. Prof. Kong Wai-Kin Adams, NTU Singapore
-2. To be confirmed
+2. Prof. Didier Meuwly, Principal Scientist - Netherlands Forensic Institute, Forensic Biometrics chair - University of Twente
 
 ```
 
 # Oragnizing Committee
 
 * Prof. Raymond Veldhuis (UTW, Netherlands) - [e-mail](r.n.j.veldhuis@utwente.nl)
-* Assoc. Prof. Kiran Raja (Univeristy of South-Eastern Norway) - [e-mail](kiran.raja@usn.no)
+* Assoc. Prof. Kiran Raja (University of South-Eastern Norway) - [e-mail](kiran.raja@usn.no)
 * Assit. Prof. Chris Zeinstra (UTW, Netherlands) - [e-mail](c.g.zeinstra@utwente.nl)
 
 # Further Information
