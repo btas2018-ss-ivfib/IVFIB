@@ -101,4 +101,3 @@ Submissions should conform to the BTAS 2018 proceedings style. Accepted papers f
 9. Please submit your paper to the Microsoft Conference Management Toolkit at: [https://cmt3.research.microsoft.com/BTASSS2018/](https://cmt3.research.microsoft.com/BTASSS2018/)
 
 Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/paper_submission_guidelines](https://www.isi.edu/events/btas2018/paper_submission_guidelines)
-
