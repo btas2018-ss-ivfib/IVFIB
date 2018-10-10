@@ -45,7 +45,7 @@ Papers are invited to report on following topics, but not limited to:
 
 If a paper is not presented (oral or poster) by one of its authors, then the paper will be withdrawn from the proceedings. There will be NO exceptions to this policy. Authors may not delegate the presentation of their paper to anyone else.
 
-Each paper will be given a 12-minute oral + poster presentation.
+Each paper will be given a 10-minute oral + poster presentation.
 
 ## Short Oral Presentation
 
