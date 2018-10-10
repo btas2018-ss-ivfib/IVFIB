@@ -72,7 +72,7 @@ Each poster board will be of size 8 feet horizontal, and 4 feet vertical.
 [BTAS2018 Official Site](https://www.isi.edu/events/btas2018/home)
 
 
-# Submission Guidelines
+# Submission Guidelines (Completed)
  
 Submissions should conform to the BTAS 2018 proceedings style. Accepted papers from the Special Session will be included in the BTAS Proceedings through IEEE. Papers must be submitted online through the submission system [CMT Submission Site](https://cmt3.research.microsoft.com/BTASSS2018/) and will be double-blind peer reviewed by at least three reviewers.
 
