@@ -63,6 +63,7 @@ Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/pape
 3. Acceptance Notification: ~~Sep 10th, 2018~~ (Completed)
 4. Camera-Ready Paper Due: ~~Sep 20th 2018~~ (Completed)
 
+<img align="center" src="btas-2018-special-session-program.pdf">
 
 # Keynote Speakers
 1. <img align="left" src="adamskong.jpg" alt="Prof. Kong Wai-Kin Adams"/> **Prof. Adams Wai Kin Kong** - received the Ph.D. degree from the University of Waterloo, Canada. Currently, he is an associate professor at the Nanyang Technological University, Singapore. His papers have been published in leading journals and conferences in his research areas. One of his papers was selected as a spotlight paper by TPAMI and another was selected as Honorable Mention by Pattern Recognition. With his students, he received best student paper awards in The IEEE Fifth International Conference on Biometrics: Theory, Applications and Systems (BTAS), 2012 and IEEE International Conference on Bioinformatics and Bioengineering, 2013. Dr. Kong received a number of awards from Singapore government for his cooperation with Singapore Police Force and the best reviewer award in BTAS 2016. In the summer of 2008, he served as an expert witness to the U.S. Department of Justice for a case of child sexual abuse. Currently, he is serving as an associate editor for IEEE Transactions on Information Forensics and Security. He has developed ten patents. His research interests include pattern recognition, image processing, biometrics, and forensics.
