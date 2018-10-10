@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-github:
-  is_project_page: false
   .page__content {
   text-align: justify;
 }
+github:
+  is_project_page: false
