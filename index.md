@@ -64,17 +64,14 @@ Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/pape
 4. Camera-Ready Paper Due: Sep 20th 2018 (Completed)
 
 
-# Speaker
-```
-Keynote Speaker - 
-1. Prof. Kong Wai-Kin Adams, NTU Singapore
-2. Prof. Didier Meuwly, Principal Scientist - Netherlands Forensic Institute, Forensic Biometrics chair - University of Twente
+# Keynote Speakers
+1. <img align="left" src="adamskong.jpg" alt="Prof. Kong Wai-Kin Adams"/> **Prof. Adams Wai Kin Kong** - received the Ph.D. degree from the University of Waterloo, Canada. Currently, he is an associate professor at the Nanyang Technological University, Singapore. His papers have been published in leading journals and conferences in his research areas. One of his papers was selected as a spotlight paper by TPAMI and another was selected as Honorable Mention by Pattern Recognition. With his students, he received best student paper awards in The IEEE Fifth International Conference on Biometrics: Theory, Applications and Systems (BTAS), 2012 and IEEE International Conference on Bioinformatics and Bioengineering, 2013. Dr. Kong received a number of awards from Singapore government for his cooperation with Singapore Police Force and the best reviewer award in BTAS 2016. In the summer of 2008, he served as an expert witness to the U.S. Department of Justice for a case of child sexual abuse. Currently, he is serving as an associate editor for IEEE Transactions on Information Forensics and Security. He has developed ten patents. His research interests include pattern recognition, image processing, biometrics, and forensics.
 
-```
+2. <img align="right" src="Meuwly.jpg" alt="Prof. Didier Meuwly" /> **Prof. Didier Meuwly** is born in Fribourg, Switzerland. After a classical education (Latin / Philosophy), he graduated as a criminalist and criminologist in 1993 and received his PhD in 2000 at the School for Forensic Science of the University of Lausanne, Switzerland. He currently shares his time between the Forensic Institute of the Dutch Ministry of Security and Justice (Netherlands Forensic Institute – NFI), where he is a principal scientist, and the University of Twente (UT), where he holds the chair of Forensic Biometrics from 2013 onwards. He specializes in the automation and validation of the probabilistic evaluation of forensic evidence, and more specifically from biometric traces. He is also interested in the contribution of biometrics for identity management. From 2002 to 2004 he worked as a senior forensic scientist at the R & D department of the UK Forensic Science Service (FSS), then an executive agency of the British Home Office. Didier has served as a criminalist in several international terrorist cases on request of the ICTY, STL, UN and UK. He has authored and coauthored more than 60 scientific publications and book chapters in the field of forensic science and is currently the lead editor of 2 draft ISO standards (21043-3 and 22842-1). He is a member of the editorial board and guest editor of Forensic Science International (FSI), member of the editorial board of IET Biometrics and a member of the R&D Standing Committee (RDSC) of the European Network of Forensic Science Institutes (ENFSI).
 
 # Oragnizing Committee
 
-* Prof. Raymond Veldhuis (UTW, Netherlands) - [e-mail](r.n.j.veldhuis@utwente.nl)
+**Prof. Raymond Veldhuis** (UTW, Netherlands) - [e-mail](r.n.j.veldhuis@utwente.nl) <img align="right" src="VeldhuisRNJ.jpg" alt="Prof. Raymond Veldhuis" /> 
 * Assoc. Prof. Kiran Raja (University of South-Eastern Norway) - [e-mail](kiran.raja@usn.no)
 * Assit. Prof. Chris Zeinstra (UTW, Netherlands) - [e-mail](c.g.zeinstra@utwente.nl)
 
