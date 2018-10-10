@@ -71,7 +71,7 @@ Detailed instructions can be found at: [https://www.isi.edu/events/btas2018/pape
 
 # Oragnizing Committee
 
-![**Prof. Raymond Veldhuis**](VeldhuisRNJ.jpg "Prof. Raymond Veldhuis") | ![**Assoc. Prof. Kiran Raja**](kiran-raja.jpg "Kiran Raja")|![**Assit. Prof. Chris Zeinstra**](ZeinstraCG.jpg "Chris Zeinstra")|
+|![**Prof. Raymond Veldhuis**](VeldhuisRNJ.jpg "Prof. Raymond Veldhuis") | ![**Assoc. Prof. Kiran Raja**](kiran-raja.jpg "Kiran Raja")|![**Assit. Prof. Chris Zeinstra**](ZeinstraCG.jpg "Chris Zeinstra")|
 |:---:|:---:|:---:|
 | **Prof. Raymond Veldhuis** | **Assoc. Prof. Kiran Raja** | **Assit. Prof. Chris Zeinstra** |
 | UTW, Netherlands | University of South-Eastern Norway | UTW, Netherlands |
