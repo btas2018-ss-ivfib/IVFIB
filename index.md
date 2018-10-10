@@ -58,7 +58,7 @@ All posters can be mounted after 08:30 am and 3:00 pm on the day of the presenta
 Each poster board will be of size 8 feet horizontal, and 4 feet vertical.
 
 
-# Oraganizing Committee
+# Organizing Committee
 
 |![**Prof. Raymond Veldhuis**](VeldhuisRNJ.jpg "Prof. Raymond Veldhuis") | ![**Assoc. Prof. Kiran Raja**](kiran-raja.jpg "Kiran Raja")|![**Assit. Prof. Chris Zeinstra**](ZeinstraCG.jpg "Chris Zeinstra")|
 |:---:|:---:|:---:|
